@@ -16,7 +16,8 @@ extern int errno;
 #define MORE_THAN_THREE_MULTIBUY_DISCOUNT 0.2f
 #define MAX_SALES 100
 // File variables and constants
-#define CSV_FILE "C:\\Users\\matth\\source\\repos\\Car Sales Assignment\\Data.csv"
+  // Add your own file path here
+#define CSV_FILE "C\\Data.csv"
 #define FILE_OPENED 0
 #define FILE_CLOSED 1
 #define FILE_ERROR 2
